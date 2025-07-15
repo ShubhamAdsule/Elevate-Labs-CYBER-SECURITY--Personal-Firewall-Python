@@ -1,0 +1,117 @@
+[2025-07-12 12:07:34.867592] Blocked Protocol: Ether / IP / UDP 192.168.31.66:53861 > 192.168.31.255:5775 / Raw
+[2025-07-12 12:07:36.915563] Blocked Protocol: Ether / IP / UDP 192.168.31.66:53861 > 192.168.31.255:5775 / Raw
+[2025-07-12 12:07:39.173767] Blocked Protocol: Ether / IP / UDP 192.168.31.66:53861 > 192.168.31.255:5775 / Raw
+[2025-07-12 12:07:41.010728] Blocked Protocol: Ether / IP / UDP 192.168.31.66:53861 > 192.168.31.255:5775 / Raw
+[2025-07-12 12:07:43.061795] Blocked Protocol: Ether / IP / UDP 192.168.31.66:53861 > 192.168.31.255:5775 / Raw
+[2025-07-12 12:07:45.108083] Blocked Protocol: Ether / IP / UDP 192.168.31.66:53861 > 192.168.31.255:5775 / Raw
+[2025-07-12 12:07:45.734498] Blocked Protocol: Ether / IP / UDP / DNS Qry b'dc.services.visualstudio.com.'
+[2025-07-12 12:07:45.800791] Blocked Protocol: Ether / IP / UDP / DNS Qry b'dc.services.visualstudio.com.'
+[2025-07-12 12:07:45.980412] Blocked Protocol: Ether / IP / UDP / DNS Ans b'dc.applicationinsights.microsoft.com.'
+[2025-07-12 12:07:47.147792] Blocked Protocol: Ether / IP / UDP 192.168.31.66:53861 > 192.168.31.255:5775 / Raw
+[2025-07-12 12:07:48.586462] Blocked Protocol: Ether / IP / UDP 192.168.31.32:49664 > 142.250.193.100:https / Raw
+[2025-07-12 12:07:48.586462] Blocked Protocol: Ether / IP / UDP 192.168.31.32:49664 > 142.250.193.100:https / Raw
+[2025-07-12 12:07:48.586462] Blocked Protocol: Ether / IP / UDP 192.168.31.32:49664 > 142.250.193.100:https / Raw
+[2025-07-12 12:07:48.586462] Blocked Protocol: Ether / IP / UDP 192.168.31.32:49664 > 142.250.193.100:https / Raw
+[2025-07-12 12:07:48.742234] Blocked Protocol: Ether / IP / UDP 142.250.193.100:https > 192.168.31.32:49664 / Raw
+[2025-07-12 12:07:48.742234] Blocked Protocol: Ether / IP / UDP 142.250.193.100:https > 192.168.31.32:49664 / Raw
+[2025-07-12 12:07:48.742234] Blocked Protocol: Ether / IP / UDP 142.250.193.100:https > 192.168.31.32:49664 / Raw
+[2025-07-12 12:07:48.742234] Blocked Protocol: Ether / IP / UDP 142.250.193.100:https > 192.168.31.32:49664 / Raw
+[2025-07-12 12:07:48.815645] Blocked Protocol: Ether / IP / UDP 142.250.193.100:https > 192.168.31.32:49664 / Raw
+[2025-07-12 12:07:48.815645] Blocked Protocol: Ether / IP / UDP 142.250.193.100:https > 192.168.31.32:49664 / Raw
+[2025-07-12 12:07:48.815645] Blocked Protocol: Ether / IP / UDP 142.250.193.100:https > 192.168.31.32:49664 / Raw
+[2025-07-12 12:07:48.815645] Blocked Protocol: Ether / IP / UDP 142.250.193.100:https > 192.168.31.32:49664 / Raw
+[2025-07-12 12:07:48.815645] Blocked Protocol: Ether / IP / UDP 192.168.31.32:49664 > 142.250.193.100:https / Raw
+[2025-07-12 12:07:48.815645] Blocked Protocol: Ether / IP / UDP 192.168.31.32:49664 > 142.250.193.100:https / Raw
+[2025-07-12 12:07:48.824084] Blocked Protocol: Ether / IP / UDP 142.250.193.100:https > 192.168.31.32:49664 / Raw
+[2025-07-12 12:07:48.824084] Blocked Protocol: Ether / IP / UDP 192.168.31.32:49664 > 142.250.193.100:https / Raw
+[2025-07-12 12:07:49.005191] Blocked Protocol: Ether / IP / UDP 142.250.193.100:https > 192.168.31.32:49664 / Raw
+[2025-07-12 12:07:49.037424] Blocked Protocol: Ether / IP / UDP 192.168.31.32:49664 > 142.250.193.100:https / Raw
+[2025-07-12 12:07:49.200736] Blocked Protocol: Ether / IP / UDP 192.168.31.66:53861 > 192.168.31.255:5775 / Raw
+[2025-07-12 12:07:51.244743] Blocked Protocol: Ether / IP / UDP 192.168.31.66:53861 > 192.168.31.255:5775 / Raw
+[2025-07-12 12:07:51.884736] Blocked Protocol: Ether / IP / UDP / DNS Qry b'mobile.events.data.microsoft.com.'
+[2025-07-12 12:07:51.954628] Blocked Protocol: Ether / IP / UDP / DNS Qry b'mobile.events.data.microsoft.com.'
+[2025-07-12 12:07:51.967661] Blocked Protocol: Ether / IP / UDP / DNS Ans b'mobile.events.data.trafficmanager.net.'
+[2025-07-12 12:07:51.983749] Blocked Protocol: Ether / IP / UDP / DNS Ans b'mobile.events.data.trafficmanager.net.'
+[2025-07-12 12:07:53.295109] Blocked Protocol: Ether / IP / UDP 192.168.31.66:53861 > 192.168.31.255:5775 / Raw
+[2025-07-12 12:07:55.345036] Blocked Protocol: Ether / IP / UDP 192.168.31.66:53861 > 192.168.31.255:5775 / Raw
+[2025-07-12 12:07:57.397596] Blocked Protocol: Ether / IP / UDP 192.168.31.66:53861 > 192.168.31.255:5775 / Raw
+[2025-07-12 12:07:58.644458] Blocked Protocol: Ether / IP / UDP / DNS Qry b'win-extension.femetrics.grammarly.io.'
+[2025-07-12 12:07:58.708654] Blocked Protocol: Ether / IP / UDP / DNS Qry b'win-extension.femetrics.grammarly.io.'
+[2025-07-12 12:07:58.841083] Blocked Protocol: Ether / IP / UDP / DNS Ans 54.210.131.20
+[2025-07-12 12:07:58.865373] Blocked Protocol: Ether / IP / UDP / DNS Ans 54.88.155.215
+[2025-07-12 12:07:59.435612] Blocked Protocol: Ether / IP / UDP 192.168.31.66:53861 > 192.168.31.255:5775 / Raw
+[2025-07-12 12:08:01.490696] Blocked Protocol: Ether / IP / UDP 192.168.31.66:53861 > 192.168.31.255:5775 / Raw
+[2025-07-12 12:08:02.592077] Blocked Protocol: Ether / IP / UDP / DNS Qry b'fcm.googleapis.com.'
+[2025-07-12 12:08:02.654866] Blocked Protocol: Ether / IP / UDP / DNS Qry b'fcm.googleapis.com.'
+[2025-07-12 12:08:02.695127] Blocked Protocol: Ether / IP / UDP / DNS Ans 216.239.38.55
+[2025-07-12 12:08:02.705970] Blocked Protocol: Ether / IP / UDP / DNS Ans 216.239.36.57
+[2025-07-12 12:08:03.536996] Blocked Protocol: Ether / IP / UDP 192.168.31.66:53861 > 192.168.31.255:5775 / Raw
+[2025-07-12 12:08:03.573000] Blocked Protocol: Ether / IP / UDP / DNS Qry b'easeusinfo.us-east-1.log.aliyuncs.com.'
+[2025-07-12 12:08:03.637620] Blocked Protocol: Ether / IP / UDP / DNS Qry b'easeusinfo.us-east-1.log.aliyuncs.com.'
+[2025-07-12 12:08:03.756022] Blocked Protocol: Ether / IP / UDP / DNS Ans 47.252.97.10
+[2025-07-12 12:08:03.828027] Blocked Protocol: Ether / IP / UDP / DNS Ans 47.252.97.11
+[2025-07-12 12:08:05.578380] Blocked Protocol: Ether / IP / UDP 192.168.31.66:53861 > 192.168.31.255:5775 / Raw
+[2025-07-12 12:08:06.818228] Blocked Protocol: Ether / IP / UDP 192.168.31.66:42914 > 239.255.255.250:ssdp / Raw
+[2025-07-12 12:08:06.818228] Blocked Protocol: Ether / IP / UDP 192.168.31.66:41599 > 239.255.255.250:ssdp / Raw
+[2025-07-12 12:08:06.818228] Blocked Protocol: Ether / IP / UDP 192.168.31.66:33462 > 239.255.255.250:ssdp / Raw
+[2025-07-12 12:08:07.022613] Blocked Protocol: Ether / IP / UDP 192.168.31.66:38069 > 239.255.255.250:ssdp / Raw
+[2025-07-12 12:08:07.022613] Blocked Protocol: Ether / IP / UDP 192.168.31.66:48978 > 239.255.255.250:ssdp / Raw
+[2025-07-12 12:08:07.022613] Blocked Protocol: Ether / IP / UDP 192.168.31.66:43523 > 239.255.255.250:ssdp / Raw
+[2025-07-12 12:08:07.022613] Blocked Protocol: Ether / IP / UDP 192.168.31.66:59140 > 239.255.255.250:ssdp / Raw
+[2025-07-12 12:08:07.022613] Blocked Protocol: Ether / IP / UDP 192.168.31.66:34451 > 239.255.255.250:ssdp / Raw
+[2025-07-12 12:08:07.227035] Blocked Protocol: Ether / IP / UDP 192.168.31.66:50595 > 239.255.255.250:ssdp / Raw
+[2025-07-12 12:08:07.227035] Blocked Protocol: Ether / IP / UDP 192.168.31.66:38573 > 239.255.255.250:ssdp / Raw
+[2025-07-12 12:08:07.231336] Blocked Protocol: Ether / IP / UDP 192.168.31.66:41083 > 239.255.255.250:ssdp / Raw
+[2025-07-12 12:08:07.231336] Blocked Protocol: Ether / IP / UDP 192.168.31.66:43441 > 239.255.255.250:ssdp / Raw
+[2025-07-12 12:08:07.231336] Blocked Protocol: Ether / IP / UDP 192.168.31.66:44228 > 239.255.255.250:ssdp / Raw
+[2025-07-12 12:08:07.444731] Blocked Protocol: Ether / IP / UDP 192.168.31.66:49544 > 239.255.255.250:ssdp / Raw
+[2025-07-12 12:08:07.444731] Blocked Protocol: Ether / IP / UDP 192.168.31.66:34916 > 239.255.255.250:ssdp / Raw
+[2025-07-12 12:08:07.460161] Blocked Protocol: Ether / IP / UDP 192.168.31.66:33900 > 239.255.255.250:ssdp / Raw
+[2025-07-12 12:08:07.460161] Blocked Protocol: Ether / IP / UDP 192.168.31.66:58430 > 239.255.255.250:ssdp / Raw
+[2025-07-12 12:08:07.460161] Blocked Protocol: Ether / IP / UDP 192.168.31.66:49786 > 239.255.255.250:ssdp / Raw
+[2025-07-12 12:08:07.634564] Blocked Protocol: Ether / IP / UDP 192.168.31.66:54638 > 239.255.255.250:ssdp / Raw
+[2025-07-12 12:08:07.634564] Blocked Protocol: Ether / IP / UDP 192.168.31.66:43087 > 239.255.255.250:ssdp / Raw
+[2025-07-12 12:08:07.634564] Blocked Protocol: Ether / IP / UDP 192.168.31.66:53861 > 192.168.31.255:5775 / Raw
+[2025-07-12 12:08:07.634564] Blocked Protocol: Ether / IP / UDP 192.168.31.66:52336 > 239.255.255.250:ssdp / Raw
+[2025-07-12 12:08:07.639079] Blocked Protocol: Ether / IP / UDP 192.168.31.66:41972 > 239.255.255.250:ssdp / Raw
+[2025-07-12 12:08:07.858612] Blocked Protocol: Ether / IP / UDP 192.168.31.66:53173 > 239.255.255.250:ssdp / Raw
+[2025-07-12 12:08:08.046365] Blocked Protocol: Ether / IP / UDP 192.168.31.66:53571 > 239.255.255.250:ssdp / Raw
+[2025-07-12 12:08:09.684007] Blocked Protocol: Ether / IP / UDP 192.168.31.66:53861 > 192.168.31.255:5775 / Raw
+[2025-07-12 12:11:29.756703] Blocked Protocol: Ether / IP / UDP 192.168.31.66:53861 > 192.168.31.255:5775 / Raw
+[2025-07-12 12:11:31.811475] Blocked Protocol: Ether / IP / UDP 192.168.31.66:53861 > 192.168.31.255:5775 / Raw
+[2025-07-12 12:11:31.911266] Blocked Protocol: Ether / IP / UDP / DNS Qry b'mobile.events.data.microsoft.com.'
+[2025-07-12 12:11:31.911266] Blocked Protocol: Ether / IP / UDP / DNS Qry b'mobile.events.data.microsoft.com.'
+[2025-07-12 12:11:31.939073] Blocked Protocol: Ether / IP / UDP / DNS Ans b'mobile.events.data.trafficmanager.net.'
+[2025-07-12 12:11:31.953583] Blocked Protocol: Ether / IP / UDP / DNS Ans b'mobile.events.data.trafficmanager.net.'
+[2025-07-12 12:11:33.871240] Blocked Protocol: Ether / IP / UDP 192.168.31.66:53861 > 192.168.31.255:5775 / Raw
+[2025-07-12 12:11:35.915521] Blocked Protocol: Ether / IP / UDP 192.168.31.66:53861 > 192.168.31.255:5775 / Raw
+[2025-07-12 12:11:37.754516] Blocked Protocol: Ether / IP / UDP 192.168.31.66:53861 > 192.168.31.255:5775 / Raw
+[2025-07-12 12:11:39.797452] Blocked Protocol: Ether / IP / UDP / mDNS Ans b'Android-4.local.'
+[2025-07-12 12:11:40.003626] Blocked Protocol: Ether / IP / UDP 192.168.31.66:53861 > 192.168.31.255:5775 / Raw
+[2025-07-12 12:11:41.841083] Blocked Protocol: Ether / IP / UDP 192.168.31.66:53861 > 192.168.31.255:5775 / Raw
+[2025-07-12 12:11:43.901162] Blocked Protocol: Ether / IP / UDP 192.168.31.66:53861 > 192.168.31.255:5775 / Raw
+[2025-07-12 12:11:45.934468] Blocked Protocol: Ether / IP / UDP 192.168.31.66:53861 > 192.168.31.255:5775 / Raw
+[2025-07-12 12:11:47.993233] Blocked Protocol: Ether / IP / UDP 192.168.31.66:53861 > 192.168.31.255:5775 / Raw
+[2025-07-12 12:11:48.833498] Blocked Protocol: Ether / IP / UDP 192.168.31.32:51155 > 142.250.76.68:https / Raw
+[2025-07-12 12:11:48.833498] Blocked Protocol: Ether / IP / UDP 192.168.31.32:51155 > 142.250.76.68:https / Raw
+[2025-07-12 12:11:48.833498] Blocked Protocol: Ether / IP / UDP 192.168.31.32:51155 > 142.250.76.68:https / Raw
+[2025-07-12 12:11:48.921052] Blocked Protocol: Ether / IP / UDP 142.250.76.68:https > 192.168.31.32:51155 / Raw
+[2025-07-12 12:11:48.921052] Blocked Protocol: Ether / IP / UDP 142.250.76.68:https > 192.168.31.32:51155 / Raw
+[2025-07-12 12:11:48.983698] Blocked Protocol: Ether / IP / UDP 142.250.76.68:https > 192.168.31.32:51155 / Raw
+[2025-07-12 12:11:48.999337] Blocked Protocol: Ether / IP / UDP 142.250.76.68:https > 192.168.31.32:51155 / Raw
+[2025-07-12 12:11:48.999337] Blocked Protocol: Ether / IP / UDP 142.250.76.68:https > 192.168.31.32:51155 / Raw
+[2025-07-12 12:11:48.999337] Blocked Protocol: Ether / IP / UDP 142.250.76.68:https > 192.168.31.32:51155 / Raw
+[2025-07-12 12:11:48.999337] Blocked Protocol: Ether / IP / UDP 142.250.76.68:https > 192.168.31.32:51155 / Raw
+[2025-07-12 12:11:48.999337] Blocked Protocol: Ether / IP / UDP 192.168.31.32:51155 > 142.250.76.68:https / Raw
+[2025-07-12 12:11:48.999337] Blocked Protocol: Ether / IP / UDP 192.168.31.32:51155 > 142.250.76.68:https / Raw
+[2025-07-12 12:11:49.078618] Blocked Protocol: Ether / IP / UDP 142.250.76.68:https > 192.168.31.32:51155 / Raw
+[2025-07-12 12:11:49.126190] Blocked Protocol: Ether / IP / UDP 192.168.31.32:51155 > 142.250.76.68:https / Raw
+[2025-07-12 12:11:50.041007] Blocked Protocol: Ether / IP / UDP 192.168.31.66:53861 > 192.168.31.255:5775 / Raw
+[2025-07-12 12:11:52.081690] Blocked Protocol: Ether / IP / UDP 192.168.31.66:53861 > 192.168.31.255:5775 / Raw
+[2025-07-12 12:11:52.285659] Blocked Protocol: Ether / IP / UDP / mDNS Qry b'Android-4.local.'
+[2025-07-12 12:11:52.703337] Blocked Protocol: Ether / IP / UDP / mDNS Qry b'Android-4.local.'
+[2025-07-12 12:11:52.901335] Blocked Protocol: Ether / IP / UDP / mDNS Qry b'Android-4.local.'
+[2025-07-12 12:11:53.106475] Blocked Protocol: Ether / IP / UDP / mDNS Ans b'Android-4.local.'
+[2025-07-12 12:11:53.941384] Blocked Protocol: Ether / IP / UDP / mDNS Ans b'Android-4.local.'
+[2025-07-12 12:11:54.131142] Blocked Protocol: Ether / IP / UDP 192.168.31.66:53861 > 192.168.31.255:5775 / Raw
+[2025-07-12 12:11:55.988079] Blocked Protocol: Ether / IP / UDP / mDNS Ans b'Android-4.local.'
