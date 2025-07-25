@@ -48,3 +48,5 @@ A **cross-platform, Python-based personal firewall** that leverages **Scapy**. T
     git clone https://github.com/ShubhamAdsule/Elevate-Labs-CYBER-SECURITY--Personal-Firewall-Python.git
     cd Elevate-Labs-CYBER-SECURITY--Personal-Firewall-Python
 
+
+2. Install Dependencies
