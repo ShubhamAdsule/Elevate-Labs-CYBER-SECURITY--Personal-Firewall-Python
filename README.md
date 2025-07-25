@@ -77,3 +77,9 @@ Example configuration:
       }
     }
 
+allow: Only traffic from listed IPs, ports, or protocols is allowed.
+
+block: Blocks traffic matching these parameters.
+
+Ex:
+[2025-07-25 10:15:34] Blocked IP: IP src=192.168.1.5 TCP dport=80
