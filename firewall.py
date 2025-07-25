@@ -35,8 +35,7 @@ def packet_filter(packet):
             log_packet(packet, "Blocked Protocol")
             return
 
-        # Check allow rules (optional strict mode)
-        # You can uncomment the next lines if you want only allowed packets
+        
         # if src_ip not in rules["allow"]["ip"]:
         #     log_packet(packet, "Not in allowed IPs")
         #     return
