@@ -1,2 +1,1 @@
-# requirements.txt for Personal Firewall Project
 scapy
