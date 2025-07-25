@@ -48,5 +48,32 @@ A **cross-platform, Python-based personal firewall** that leverages **Scapy**. T
     git clone https://github.com/ShubhamAdsule/Elevate-Labs-CYBER-SECURITY--Personal-Firewall-Python.git
     cd Elevate-Labs-CYBER-SECURITY--Personal-Firewall-Python
 
+---
+    2. Install Dependencies
+    
+    pip install -r requirements.txt
+    
+    3. Run the Firewall
+    Windows: Run your terminal as Administrator
+    Linux/macOS: Use sudo if necessary
+    
+    python firewall.py
 
-2. Install Dependencies
+
+📝 Configuring Rules (rules.json)
+Rules control how the firewall allows or blocks traffic.
+Example configuration:
+
+    {
+      "allow": {
+        "ip": ["127.0.0.1"],
+        "port": [80, 443],
+        "protocol": ["TCP"]
+      },
+      "block": {
+        "ip": ["192.168.1.5"],
+        "port": [23],
+        "protocol": ["UDP"]
+      }
+    }
+
