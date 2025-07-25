@@ -30,3 +30,21 @@ A **cross-platform, Python-based personal firewall** that leverages **Scapy**. T
     ├── rules.json # User-defined allow/block rules
     ├── log.txt # Log of blocked/suspicious packets
     └── requirements.txt # Python dependencies
+
+
+---
+
+## ⚙️ Tools & Technologies
+- **Python 3.8+**
+- **Scapy** – For packet sniffing and filtering.
+- **JSON** – For storing rules.
+
+---
+
+## 🚀 How to Run
+
+### 1. Clone this Repository
+```bash
+    git clone https://github.com/ShubhamAdsule/Elevate-Labs-CYBER-SECURITY--Personal-Firewall-Python.git
+    cd Elevate-Labs-CYBER-SECURITY--Personal-Firewall-Python
+
