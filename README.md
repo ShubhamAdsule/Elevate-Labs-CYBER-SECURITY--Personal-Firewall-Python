@@ -28,8 +28,6 @@ Created as part of a cybersecurity internship project, it demonstrates the core 
     └── requirements.txt # Dependencies  ```
 
 
----
-
 ## ⚙️ Tools & Technologies
 - **Python 3.8+**
 - **Scapy** – For packet sniffing and filtering.
