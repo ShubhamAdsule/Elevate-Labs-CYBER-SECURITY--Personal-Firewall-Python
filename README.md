@@ -153,8 +153,11 @@ All blocked or suspicious packets are recorded in `log.txt` with timestamps.
 
 ---
  ## Screenshot
+ 
    <img width="1906" height="1058" alt="image" src="https://github.com/user-attachments/assets/709bd5d8-8b52-43e5-bba8-dea2e8d9e080" />
-##log.txt
+   
+## log.txt
+
 <img width="1805" height="937" alt="image" src="https://github.com/user-attachments/assets/8b5c373a-5f16-4267-9db4-4b0b23409f8e" />
 
 
