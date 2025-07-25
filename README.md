@@ -21,8 +21,9 @@ Created as part of a cybersecurity internship project, it demonstrates the core 
 ---
 
 ## 📂 Project Structure
-personal-firewall-python/
-├── firewall.py # Main firewall script
-├── rules.json # User-defined allow/block rules
-├── log.txt # Logs of blocked packets
-└── requirements.txt # Dependencies
+''' personal-firewall-python/
+    ├── firewall.py # Main firewall script
+    ├── rules.json # User-defined allow/block rules
+    ├── log.txt # Logs of blocked packets
+    └── requirements.txt # Dependencies  '''
+
